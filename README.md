@@ -43,6 +43,8 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 **CALCULTION**
 
+![WhatsApp Image 2025-12-20 at 11 32 32_2bf455c2](https://github.com/user-attachments/assets/3dd653cc-8392-4218-9afa-2b609ca66e05)
+
 ![WhatsApp Image 2025-12-20 at 00 03 37_3eb01cd1](https://github.com/user-attachments/assets/815f4f41-8b9b-4f77-ab78-a68f41836234)
 
 **PROCEDURE:**
